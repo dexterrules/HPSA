@@ -253,6 +253,7 @@ button:focus {
 	background: #fff;
 	padding: 5px 20px;
 	margin-bottom: 30px;
+	opacity: 0.9;
 }
 
 
@@ -297,7 +298,7 @@ button:focus {
 .mu-hero-featured-content h1 {
 	font-size: 45px;
 	color: #fff;
-	font-weight: 300;
+	font-weight: bold;
 	margin-bottom: 15px;
 }
 
@@ -315,6 +316,7 @@ button:focus {
 	display: inline-block;
 	margin-top: 10px;
 	font-weight: 600;
+	opacity: 0.9;
 }
 
 .mu-event-counter-area {
@@ -436,10 +438,13 @@ button:focus {
 .mu-about-right {
 	display: inline;
 	float: left;
-	margin-top: 30px;
+	margin-top: -5px;
 	width: 100%;
 }
 
+.mu-about-right p {
+	font-size: 115%;
+}
 
 
 /*--------------------*/
@@ -474,6 +479,10 @@ button:focus {
 }
 
 .mu-video-area h2 {
+	color: #fff;
+}
+
+.mu-video-area h3 {
 	color: #fff;
 }
 
@@ -809,7 +818,7 @@ button:focus {
 }
 
 .mu-venue-map iframe {
-	margin-bottom: -8px;
+	margin-bottom: -5px;
 }
 
 .mu-venue-address {
@@ -1104,6 +1113,8 @@ button:focus {
 	float: left;
 	padding: 150px 0;
 	width: 100%;
+	font-size: 115%;
+	margin-bottom: -80px;
 }
 
 .mu-faq-content {
@@ -1161,6 +1172,7 @@ button:focus {
 	display: inline;
 	float: left;
 	width: 100%;
+	font-size: 115%;
 }
 
 .mu-contact-area {
