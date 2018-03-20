@@ -484,6 +484,7 @@ button:focus {
 
 .mu-video-area h5 {
 	color: #fff;
+	font-weight: normal;
 }
 
 .mu-video-content {
