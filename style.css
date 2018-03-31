@@ -411,6 +411,7 @@ button:focus {
 	float: left;
 	padding: 100px 0;
 	width: 100%;
+	margin-bottom: -100px;
 }
 
 .mu-title-area {
