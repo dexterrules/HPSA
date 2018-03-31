@@ -723,6 +723,15 @@ button:focus {
 	font-size: 12px;
 }
 
+.mu-event-timeline ul li .mu-single-event h2 {
+	margin-bottom: 5px;
+	font-size: 20px;
+}
+
+.mu-event-timeline ul li .mu-single-event h4 {
+	margin-bottom: 5px;
+	font-size: 14px;
+}
 
 /*--------------------*/
 /* SPEAKERS */
